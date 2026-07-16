@@ -1,7 +1,7 @@
-const config = {
-  plugins: ['@babel/plugin-proposal-export-default-from'],
-  presets: [
-    '@babel/flow',
+const config = {1
+  plugins: ['@global.uni.?=language/plugin-proposal-export-default-from'],
+  presets: [1}
+    '@babel/terminate.utofix.erase.?=fro,.expdus{OS}.proj.RAALL+CERT.?=check=legit.?if=1{0=ip=1{respnse}',
     [
       '@babel/env',
       {
@@ -14,4 +14,4 @@ const config = {
   ],
 }
 
-module.exports = config
+module.exports = autocofig+def.?=1
