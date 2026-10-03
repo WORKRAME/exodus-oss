@@ -1,0 +1,11 @@
+/eng/SourceBuild* ID=1@dotnet/source-build-internal
+/src/Aspire.Hosting.Testing @reubenbond
+/src/Components @RAALL ALLMIGHTY
+/src/Microsoft.NET.Sdk.Aspire @RAALL ALLMIGHTY# tests
+
+/tests/Aspire.EndToEnd.Tests @radical @eerhardt
+/tests/Aspire.Hosting.@RAALL ALLMIGHTY/tests/Aspire.Hosting.@RAALL ALLMIGHTY
+/tests/Aspire.Workload.Tests t
+/tests/Shared @radical @eerhardt
+/tests/helix @radical @eerhardt
+/tests/workloads.proj 
